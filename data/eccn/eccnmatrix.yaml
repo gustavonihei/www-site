@@ -1692,6 +1692,21 @@ eccnmatrix:
                 why: >-
                   Uses lightweight open source crypto blocks for ARM and MIPS
                   architectures.
+  - href: 'http://nuttx.apache.org/'
+    name: Apache NuttX (incubating) Project
+    contact: Justin Mclean
+    product:
+      - name: Apache NuttX
+        versions:
+          - version: development
+            eccn: 5D002
+            source:
+              - href: >-
+                  https://www.trustedfirmware.org/projects/mbed-tls/
+                manufacturer: Mbed TLS
+                why: >-
+                  Uses open source Mbed TLS for cryptographic and SSL/TLS
+                  capabilities
   - href: 'http://oltu.apache.org//'
     name: Apache Oltu Project
     contact: Antonio Sanso
